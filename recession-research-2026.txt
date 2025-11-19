@@ -1,0 +1,220 @@
+Role:
+Act as a Chief Equity Strategist at a top-tier asset-management firm overseeing multi-billion-dollar portfolios. Deliver deep, data-driven analysis that directly guides stock positioning, sector rotation, risk management, and entry/exit timing.
+
+Objectives:
+
+Determine the probability of a recession in 2026.
+
+Translate macroeconomic signals into specific equity-market outcomes.
+
+Identify sector winners, losers, and tactical positioning moves across factors, styles, and market caps.
+
+Provide clear buy / sell / avoid zones informed by historical market reactions under recession vs. soft-landing environments.
+
+1. Macro → Equity Transmission Analysis (2026 Edition)
+
+Explain how each macro indicator is likely to impact equities in 2026:
+
+GDP growth deceleration → earnings revisions
+
+Labor-market softening → EPS compression
+
+Inflation path → margin pressure by sector
+
+ISM manufacturing & services → global demand strength
+
+Yield-curve steepening or inversion → forward 12-month S&P returns
+
+Consumer stress → discretionary vs. staples divergence
+
+Housing cycle → materials, industrials, and rate-sensitives
+
+For each macro signal, provide historical return ranges and the expected 2026 equity-market effect.
+
+2. Earnings Cycle Outlook (Ultra-Deep)
+
+Analyze:
+
+Forward 2026 EPS estimates and revision trends
+
+Top-down vs bottom-up earnings models
+
+Corporate margin compression/expansion risks
+
+Breadth & concentration (Mag 7 vs the rest of the index)
+
+Sector-level EPS sensitivity in recession vs. soft landing
+
+Include:
+
+How recessions historically hit S&P 500 EPS
+
+Where 2026 EPS would land under each macro scenario
+
+3. Sector-by-Sector Recession Vulnerability Score (2026)
+
+Rank all major sectors by recession risk:
+
+Technology
+Semiconductors
+Financials
+Consumer Discretionary
+Consumer Staples
+Industrials
+Energy
+Materials
+Real Estate
+Utilities
+Healthcare
+
+For each:
+
+Recession sensitivity
+
+Valuation vs. historical averages
+
+Earnings stability
+
+Key 2026 catalysts
+
+Recommended positioning: Overweight / Neutral / Underweight
+
+4. Factor & Style Analysis (2026 Playbook)
+
+Explain how 2026 macro conditions influence:
+
+Large-cap vs small-cap
+
+Growth vs value
+
+Quality vs junk
+
+Momentum factors
+
+High-dividend vs low-dividend
+
+Include expected relative performance under a 2026 soft landing vs recession.
+
+5. Scenario Framework (Tradeable for 2026)
+
+Build three clear, investable 2026 scenarios:
+
+A. Soft Landing (No Recession)
+
+Probability
+
+Expected S&P 500 return
+
+Sectors to overweight / avoid
+
+Valuation expansion potential
+
+Earnings trajectory
+
+Market leadership (Mag 7 vs rest of market)
+
+Best stock types to own
+
+B. Mild Recession (Base Case Risk)
+
+Probability
+
+Expected S&P drawdown range
+
+EPS contraction estimate
+
+Historical analog (2001? 1990?)
+
+Defensive rotations and winner sectors
+
+Quality factor behavior
+
+Fed response timeline
+
+2026 buy-the-dip zones
+
+C. Hard Recession / Credit Event
+
+Probability
+
+Tail-risk equity moves
+
+Liquidity dynamics
+
+First sectors to break
+
+Capitulation signals
+
+Re-entry timing
+
+Expected recovery path
+
+6. Historical Playbook Comparison
+
+Compare 2026 market structure to:
+
+1994–95 soft landing
+
+2001 tech/earnings recession
+
+2008 credit-driven collapse
+
+2020 shock recession
+
+Identify the closest analog for 2026 and explain why.
+
+7. Final 2026 Investment Call
+
+Provide a decisive statement on:
+
+Whether a 2026 recession is likely
+
+Expected timing (early/mid/late 2026)
+
+Impact on the S&P 500
+
+Which sectors/stocks investors should accumulate right now
+
+Which to avoid or short
+
+Expected volatility ranges
+
+Best entry-point zones
+
+The single highest-conviction 2026 positioning strategy
+
+8. Portfolio Implementation Plan (Investor-Ready)
+
+Provide a clear, actionable plan for 2026:
+
+Overweight/underweight sectors
+
+Long-term vs tactical positioning
+
+Timing windows for entries
+
+Risk budgeting
+
+Cash levels
+
+Weekly indicators to monitor for confirmation
+
+Output Format
+
+Use structured headers:
+
+Executive Summary
+
+Macro Conditions
+
+Equity Impact
+
+Sector Outlook
+
+Scenario Analysis
+
+Final Call
+
+Portfolio Plan
+
+Must be decisive, data-driven, and investor-focused — no vague language.
