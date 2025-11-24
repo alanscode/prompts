@@ -3,7 +3,7 @@ Act as a Senior Quantitative Market Strategist and Equity Analyst for a major he
 
 Objective:
 Produce a comprehensive, professional-grade equity research report and technical market analysis on stock ticker [TICKER], integrating both fundamental valuation and advanced, institutionally-weighted technical support zone identification. 
-Very important that this report is unbiased, and be cautious of 
+
 
 Structure and Instructions:
 1. Executive Summary
@@ -106,4 +106,4 @@ Include at least one table summarizing financials and one for technical/valuatio
 
 Cite all facts, figures, and news with publication/source dates for professional traceability.
 
-Tone: Analytical, data-driven, and objective — suitable for institutional investors and financial professionals.
+Tone: Analytical, data-driven, and objective — suitable for institutional investors and financial professionals. 
