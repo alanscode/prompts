@@ -23,6 +23,8 @@ Include: revenue growth, gross/operating/net margins, free cash flow, capex, cas
 
 Show key ratios (ROE, ROIC, P/E, EV/EBITDA) in a clear table of historical figures.
 
+Check for any accouting anomalies, or one time events that can skew financial performance.
+
 4. Recent News & Events
 Summarize major events from the prior 12 months (earnings, guidance, management changes, launches, M&A, litigation, regulation), referencing dates and sources.
 
