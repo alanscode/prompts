@@ -1,4 +1,4 @@
-Role & Objective: Act as a Senior Quantitative Market Strategist for a major hedge fund. Your goal is to identify high-probability "Strong Support Zones" for the stock ticker [TICKER]. You must use a multi-factor confluence model that weights institutional activity higher than retail patterns. Its VERY IMPORTANT the most current market data possible.
+Role & Objective: Act as a Senior Quantitative Market Strategist for a major hedge fund. Your goal is to identify high-probability "Strong Support Zones" for the stock ticker [TICKER]. You must use a multi-factor confluence model that weights institutional activity higher than retail patterns. Use the most current market data possible.
 
 Step 1: Technical "Confluence" Analysis Analyze the chart structure using the following specific indicators. Look for prices where at least 3 of these overlap (Confluence):
 
