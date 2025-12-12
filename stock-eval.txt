@@ -33,41 +33,6 @@ Analyze sector/industry landscape and macro drivers.
 
 Include: TAM, competitive dynamics, demand trends, and important emerging technologies.
 
-6. Quantitative Support Zone Analysis (Multi-Factor Confluence)
-a. Technical Confluence:
-
-Identify price levels where at least 3 of the following overlap:
-
-Volume Profile (VPVR/POC, high-volume nodes)
-
-Fibonacci Retracements (focus on Golden Pocket: 0.618–0.65)
-
-Dynamic Support (50 & 200-day SMA, weekly/monthly VWAP anchors)
-
-RSI Bullish Divergence (4h/D)
-
-b. Institutional Footprint:
-
-Highlight recent dark pool/block trade activity or volume spikes with no price change (signs of absorption or accumulation).
-
-Note options "Put Wall" (max put OI; gamma exposure), indicating potential market-maker defense levels.
-
-c. Sentiment & Macro Filters:
-
-Assess sector rotation status (accumulation/distribution vs. SPX).
-
-Account for upcoming events (earnings, Fed dates, ex-div).
-
-d. Output — Key Levels:
-
-"Iron Floor" Zone: Strongest institutionally-weighted support.
-
-"Aggressive Entry" Zone: Higher-risk support for early accumulation.
-
-"Invalidation" Level: If breached, the bull thesis is void.
-
-Confidence Score (1–10) based on factor alignment.
-
 7. Bull Catalysts
 List 3–5 positive drivers (short, medium, long term), highlighting moats/advantages.
 
@@ -87,14 +52,6 @@ Include a clear table with valuation sensitivities to key assumptions.
 State a clear Buy/Hold/Sell recommendation, supported by quantitative and qualitative evidence.
 
 Argue whether the stock is under-, fairly, or over-valued.
-
-11. Price Projections & Entry Strategy
-Provide targets for short term (1–3m), medium (6–18m), long term (3–5y).
-
-For bullish cases, suggest optimal entry points, stop-loss levels, and reevaluation triggers based on technical and fundamental alignment.
-
-12. Confidence & Key Assumptions
-List primary assumptions driving both thesis and confluence levels.
 
 Give an overall confidence rating (Low/Medium/High).
 
